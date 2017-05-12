@@ -1,0 +1,9 @@
+G:\BookShop\WebChatDemo\WebChar.Model\bin\Debug\WebChar.Model.dll
+G:\BookShop\WebChatDemo\WebChar.Model\bin\Debug\WebChar.Model.pdb
+G:\BookShop\WebChatDemo\WebChar.Model\obj\Debug\WebChar.Model.dll
+G:\BookShop\WebChatDemo\WebChar.Model\obj\Debug\WebChar.Model.pdb
+D:\2017-04-17\BookShop\WebChatDemo\WebChar.Model\bin\Debug\WebChar.Model.dll
+D:\2017-04-17\BookShop\WebChatDemo\WebChar.Model\bin\Debug\WebChar.Model.pdb
+D:\2017-04-17\BookShop\WebChatDemo\WebChar.Model\obj\Debug\WebChat.Model.csprojResolveAssemblyReference.cache
+D:\2017-04-17\BookShop\WebChatDemo\WebChar.Model\obj\Debug\WebChar.Model.dll
+D:\2017-04-17\BookShop\WebChatDemo\WebChar.Model\obj\Debug\WebChar.Model.pdb

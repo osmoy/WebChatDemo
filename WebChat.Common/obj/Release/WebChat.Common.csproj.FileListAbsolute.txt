@@ -1,0 +1,5 @@
+G:\BookShop\WebChatDemo\WebChat.Common\bin\Release\WebChat.Common.dll
+G:\BookShop\WebChatDemo\WebChat.Common\bin\Release\WebChat.Common.pdb
+G:\BookShop\WebChatDemo\WebChat.Common\obj\Release\WebChat.Common.dll
+G:\BookShop\WebChatDemo\WebChat.Common\obj\Release\WebChat.Common.pdb
+G:\BookShop\WebChatDemo\WebChat.Common\obj\Release\WebChat.Common.csprojResolveAssemblyReference.cache

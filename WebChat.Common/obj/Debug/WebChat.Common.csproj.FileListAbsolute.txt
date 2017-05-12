@@ -1,0 +1,9 @@
+G:\BookShop\WebChatDemo\WebChat.Common\bin\Debug\WebChat.Common.dll
+G:\BookShop\WebChatDemo\WebChat.Common\bin\Debug\WebChat.Common.pdb
+G:\BookShop\WebChatDemo\WebChat.Common\obj\Debug\WebChat.Common.dll
+G:\BookShop\WebChatDemo\WebChat.Common\obj\Debug\WebChat.Common.pdb
+D:\2017-04-17\BookShop\WebChatDemo\WebChat.Common\bin\Debug\WebChat.Common.dll
+D:\2017-04-17\BookShop\WebChatDemo\WebChat.Common\bin\Debug\WebChat.Common.pdb
+D:\2017-04-17\BookShop\WebChatDemo\WebChat.Common\obj\Debug\WebChat.Common.csprojResolveAssemblyReference.cache
+D:\2017-04-17\BookShop\WebChatDemo\WebChat.Common\obj\Debug\WebChat.Common.dll
+D:\2017-04-17\BookShop\WebChatDemo\WebChat.Common\obj\Debug\WebChat.Common.pdb

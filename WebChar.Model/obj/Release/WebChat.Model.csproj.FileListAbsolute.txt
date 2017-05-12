@@ -1,0 +1,4 @@
+G:\BookShop\WebChatDemo\WebChar.Model\bin\Release\WebChar.Model.dll
+G:\BookShop\WebChatDemo\WebChar.Model\bin\Release\WebChar.Model.pdb
+G:\BookShop\WebChatDemo\WebChar.Model\obj\Release\WebChar.Model.dll
+G:\BookShop\WebChatDemo\WebChar.Model\obj\Release\WebChar.Model.pdb

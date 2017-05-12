@@ -1,0 +1,9 @@
+G:\BookShop\WebChatDemo\WebChatDemo\bin\WebChatDemo.dll
+G:\BookShop\WebChatDemo\WebChatDemo\bin\WebChatDemo.pdb
+G:\BookShop\WebChatDemo\WebChatDemo\bin\WebChar.Model.dll
+G:\BookShop\WebChatDemo\WebChatDemo\bin\WebChat.Common.dll
+G:\BookShop\WebChatDemo\WebChatDemo\bin\WebChar.Model.pdb
+G:\BookShop\WebChatDemo\WebChatDemo\bin\WebChat.Common.pdb
+G:\BookShop\WebChatDemo\WebChatDemo\obj\Release\WebChatDemo.csprojResolveAssemblyReference.cache
+G:\BookShop\WebChatDemo\WebChatDemo\obj\Release\WebChatDemo.dll
+G:\BookShop\WebChatDemo\WebChatDemo\obj\Release\WebChatDemo.pdb
